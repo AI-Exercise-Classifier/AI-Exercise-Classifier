@@ -86,7 +86,7 @@ Appen innehåller bl.a. dessa labels:
 
 
 ## Team
--*Kristian Yousef*
+- *Kristian Yousef*
 - *Patrik Kassir*
 - *Romeo Haddad*
 - *Dennis Chawshin*
