@@ -84,15 +84,11 @@ Appen innehåller bl.a. dessa labels:
 - **Byt sampling rate**
   - I Data Collection kan ni välja 50 Hz eller 100 Hz
 
-## Förslag för GitHub-repot (rekommenderat)
-- Lägg till en `.gitignore` för Xcode (så ni inte committar DerivedData, user settings, etc.)
-- Ta bort skräpfiler innan ni pushar:
-  - `.DS_Store`
-  - `__MACOSX/`
-  - eventuell medföljande `.git/`-mapp i zippen (ni vill ha er egen git-historik i repot)
 
 ## Team
-- *[Lägg in era namn här]*
+- *Patrik Kassir*
+- *Romeo Haddad*
+- *Dennis Chawshin*
 
 ## Licens
 Utbildningsprojekt för kursen HI1033.
