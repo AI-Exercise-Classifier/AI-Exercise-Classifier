@@ -1,4 +1,4 @@
-# AI Exercise Classifier (Exercise Tracker) 🏋️‍♂️📱⌚️
+# LiftIQ (Exercise Tracker) 🏋️‍♂️📱⌚️
 **Kurs:** HI1033 – Mobila applikationer och trådlösa nät
 
 En iOS-app byggd i **SwiftUI** som använder **Core ML** för att klassificera träningsövningar baserat på rörelsedata (accelerometer/gyro/gravity).
