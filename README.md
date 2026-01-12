@@ -1,13 +1,12 @@
 # LiftIQ (Exercise Tracker) 🏋️‍♂️📱⌚️
 **Kurs:** HI1033 – Mobila applikationer och trådlösa nät
 
-En iOS-app byggd i **SwiftUI** som använder **Core ML** för att klassificera träningsövningar baserat på rörelsedata (accelerometer/gyro/gravity).
-Appen kan ta sensordata från **iPhone** eller streama från en **Apple Watch** via **WatchConnectivity**.
+Utvecklade en iOS-app i **SwiftUI** som använder **Core ML** för att klassificera träningsövningar baserat på rörelsedata från accelerometer, gyroskop och gravitationssensorer. Applikationen kan samla sensordata direkt från iPhone eller ta emot realtidsströmning från **Apple Watch** via **WatchConnectivity**. Implementerade även rep- och set-detektering samt lokal loggning av träningspass.
 
 ## Funktioner
 - **Live workout-läge**
   - Tar emot rörelsedata (från Watch i realtid) och kör ML-prediktioner
-  - Grundläggande rep-detektering och set-logik
+  - Rep-detektering och set-logik
   - Visar prediktion + confidence
 - **Workout History**
   - Sparar pass lokalt och visar summering (sets/reps/volym)
